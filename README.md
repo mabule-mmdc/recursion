@@ -6,4 +6,4 @@ Here's an example of recursion in the form of [merge sort](https://www.simplilea
 ## Instructions
 1. Compile by doing `javac Recursive.java`
 2. Run by doing `java Recursive <args>`
-  - `args` an arbitrary amount of integers as program arguments (ex. `java Recursive 5 4 7 1 8 9 2 3 6`)
+    - `args` an arbitrary amount of integers as program arguments (ex. `java Recursive 5 4 7 1 8 9 2 3 6`)
